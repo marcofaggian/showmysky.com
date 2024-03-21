@@ -1,4 +1,4 @@
-import { DeviceLocation } from "./DeviceLocation";
+import type { DeviceLocation } from "./DeviceLocation";
 
 export interface OSMPlacesDTO {
   place_id: number;

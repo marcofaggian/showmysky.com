@@ -1,6 +1,6 @@
 "use client";
 
-import { DeviceLocation } from "./DeviceLocation";
+import type { DeviceLocation } from "./DeviceLocation";
 
 export interface GetIPLocationDTO {
   ip: string;
